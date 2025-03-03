@@ -1,4 +1,4 @@
-package SpringBoot.jdbc;
+package springboot.jdbc;
 
 import org.apache.ibatis.annotations.Mapper;
 
